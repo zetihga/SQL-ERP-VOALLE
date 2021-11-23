@@ -1,0 +1,1 @@
+Select * from contracts c limit 10
